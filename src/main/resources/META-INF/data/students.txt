@@ -1,0 +1,5 @@
+S001,Manokaran Rajin,0776422233,rajin20032003@gmail.com,Male,galle,student123
+S002,Hithursan,0776422233,hithurshan@gmail.com,Male,Ampara,student123
+S003,anojan,0740223682,hithurshan@gmail.com,Male,jaffna,student123
+S004,mathusan,0740223682,hithurshan@gmail.com,Male,Ampara,student123
+S005,Nirubana Thevathasan,0762712317,nirupanathevathasan@gmail.com,Female,jaffna,student123
